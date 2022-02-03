@@ -1,0 +1,91 @@
+body{
+	background-color: grey;
+	color: white;
+	margin: 0rem;
+	font-family: 'Cairo', sans-serif;
+}
+nav{
+	background-color: black;
+	margin: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-right: 50px;
+	border-bottom: solid 2px orange;
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+nav img{
+	width: 75px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+
+}
+
+h3{
+	padding: 1rem;
+	color: orange;
+	text-align: center;
+}
+
+p{
+	padding: 1rem;
+	text-align: center;
+}
+
+img{
+	width: 150px;
+	float: right;
+}
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+figure{
+	border: 3px solid;
+	float: right;
+}
+
+article.contenido{
+	width: 90%;
+}
+
+details{
+	padding: 1rem;
+}
+
+.inicio{
+	padding: 0px;
+	background-image: url(https://awstrainingincoimbatore.in/images/banner-kalilinux.jpg);
+  	height: 200px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+}
+
+a{
+	display: flex;
+	color: black;
+	justify-content: center;
+}

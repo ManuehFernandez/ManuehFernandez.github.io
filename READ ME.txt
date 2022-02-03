@@ -1,0 +1,4 @@
+Hola Borja, este trabajo está realizado por Manu, Sara y Alfonso.
+La parte de biografía e historia del desarrollo de Linux está hecha por Manu.
+La parte de las  distribuciones Kubuntu y Kali Linux están hechas por Alfonso.
+La parte de las distribuciones Debian y Ubuntu están hechas por Sara.
